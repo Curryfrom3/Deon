@@ -1,115 +1,108 @@
-// {
-//   "basic_info": {
-//     "description_header": "Cześć",
-//     "description": "Deon Curry. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Code Fellows. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-//     "section_name": {
-//       "about": "O mnie",
-//       "projects": "Projekty",
-//       "skills": "Umiejętności",
-//       "experience": "Doświadczenie"
-//     }
-//   },
-//   "projects": [
-//     {
-//       "title": "Animal Shelter",
-//       "startDate": "2020",
-//       "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-//       "images": [
-//         "images/portfolio/animal-shelter/Pic1.jpg",
-//         "images/portfolio/animal-shelter/pic2.jpg",
-//         "images/portfolio/animal-shelter/pic3.jpg"
-//       ],
-//       "url": "",
-//       "technologies": [
-//         {
-//           "class": "devicon-angularjs-plain",
-//           "name": "Angular"
-//         },
-//         {
-//           "class": "devicon-typescript-plain",
-//           "name": "TypeScript"
-//         },
-//         {
-//           "class": "devicon-csharp-plain",
-//           "name": "C#"
-//         }
-//       ]
-//     },
-//     {
-//       "title": "Photography",
-//       "startDate": "2018",
-//       "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-//       "images": [
-        
-//       ],
-//       "url": "https://github.com",
-//       "technologies": [
-//         {
-//           "class": "devicon-react-original",
-//           "name": "React"
-//         },
-//         {
-//           "class": "devicon-javascript-plain",
-//           "name": "JavaScript"
-//         }
-//       ]
-//     },
-//     {
-//       "title": "3D Object Viewer",
-//       "startDate": "2015",
-//       "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-//       "images": [
-     
-//       ],
-//       "url": "https://github.com",
-//       "technologies": [
-//         {
-//           "class": "devicon-angularjs-plain",
-//           "name": "Angular"
-//         },
-//         {
-//           "class": "devicon-typescript-plain",
-//           "name": "TypeScript"
-//         },
-//         {
-//           "class": "devicon-csharp-plain",
-//           "name": "C#"
-//         }
-//       ]
-//     }
-//   ],
-//   "experience": [
-//     {
-//       "company": "DefOpenSource",
-//       "title": "Front-End Developer",
-//       "years": "10.2019 - obecnie",
-//       "mainTech": [
-//         "Angular 8/9/10"
-//       ],
-//       "technologies": [
-//         "REST API",
-//         "RxJS",
-//         "JavaScript",
-//         "Bootstrap",
-//         "MDBootstrap",
-//         "EF Core",
-//         "Angular Material"
-//       ]
-//     },
-//     {
-//       "company": "Serros Solutions",
-//       "title": "Stażystka",
-//       "years": "01.2018 - 09.2019",
-//       "mainTech": [
-//         "Angular 7/8"
-//       ],
-//       "technologies": [
-//         "REST API",
-//         "RxJS",
-//         "Swagger",
-//         "JavaScript",
-//         "DHTMLX Gantt"
-//       ]
-//     }
-//   ]
-// }
+{
+  "basic_info": {
+  "description_header": "Cześć",
+  "description": "Nazywam się Deon Curry i jestem weteranem US Navy.",
+  "section_name": {
+  "about": "O mnie",
+  "projects": "Projekty",
+  "skills": "Umiejętności",
+  "experience": "Doświadczenie"
+  }
+  },
+  "projects": [
+  {
+  "title": "BuffAid",
+  "startDate": "2023",
+  "description": "Strona internetowa jak Onlyfans, ale bez treści dla dorosłych.",
+  "images": [
+  "images/portfolio/navy/Pic1.jpg",
+  "images/portfolio/navy/pic2.jpg",
+  "images/portfolio/navy/pic3.jpg"
+  ],
+  "url": "https://github.com/Curryfrom3/BuffAid.git",
+  "technologies": [
+  {
+  "class": "devicon-javascript-plain",
+  "name": "JavaScript"
+  },
+  {
+  "class": "devicon-html5-plain",
+  "name": "HTML 5"
+},
+{
+  "class": "devicon-css3-plain",
+  "name": "CSS 3"         
+}
+]
+},
+{
+"title": "Salmon Cookies",
+"startDate": "2023",
+"description": "Prosty projekt wyświetlający sprzedaż ciastek dla miast, które prowadzą biznes z ciastkami z łososia.",
+"images": [
+"images/portfolio/adventure/Pic1.jpg",
+"images/portfolio/adventure/pic2.jpg",
+"images/portfolio/adventure/pic3.jpg"
+],
+"url": "https://github.com/Curryfrom3/cookie-stand.git",
+"technologies": [
+{
+  "class": "devicon-javascript-plain",
+  "name": "JavaScript"
+},
+{
+  "class": "devicon-html5-plain",
+  "name": "HTML 5"
+  
+},
+{
+  "class": "devicon-css3-plain",
+  "name": "CSS 3"         
+}
+]
+},
+{
+"title": "Gallery of Horns",
+"startDate": "2023",
+"description": "Strona, na której możesz ulubione zdjęcia zwierząt z rogami. Możesz również filtrować galerię według rozmiaru rogu.",
+"images": [
+"images/portfolio/photography/Pic1.jpg",
+"images/portfolio/photography/pic2.jpg",
+"images/portfolio/photography/pic3.jpg"
+
+],
+"url": "https://github.com/Curryfrom3/gallery-of-horns.git",
+"technologies": [
+{
+  "class": "devicon-angularjs-plain",
+  "name": "Angular"
+},
+{
+  "class": "devicon-typescript-plain",
+  "name": "TypeScript"
+},
+{
+  "class": "devicon-csharp-plain",
+  "name": "C#"
+}
+]
+}
+],
+"experience": [
+{
+"company": "Full Stack Developer",
+"title": "Student",
+"years": "12.2022 - obecnie",
+"mainTech": [
+"JavaScript"
+],
+"technologies": [
+  "JavaScript",
+  "Bootstrap",
+  "HTML 5",
+  "React",
+  "CSS 3"
+]
+}
+]
+}
