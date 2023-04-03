@@ -15,9 +15,9 @@
       "startDate": "2023",
       "description": "A website like Onlyfans but without adult content.",
       "images": [
-        "images/portfolio/animal-shelter/Pic1.jpg",
-        "images/portfolio/animal-shelter/pic2.jpg",
-        "images/portfolio/animal-shelter/pic3.jpg"
+        "images/portfolio/navy/Pic1.jpg",
+        "images/portfolio/navy/pic2.jpg",
+        "images/portfolio/navy/pic3.jpg"
       ],
       "url": "https://github.com/Curryfrom3/BuffAid.git",
       "technologies": [
@@ -41,7 +41,9 @@
       "startDate": "2023",
       "description": "Simple project that displays cookie sales for cities that have the Salmon Cookie Business",
       "images": [
-       
+        "images/portfolio/adventure/Pic1.jpg",
+        "images/portfolio/adventure/pic2.jpg",
+        "images/portfolio/adventure/pic3.jpg"
       ],
       "url": "https://github.com/Curryfrom3/cookie-stand.git",
       "technologies": [
@@ -65,7 +67,10 @@
       "startDate": "2023",
       "description": "A site where you can favorite pictures of animals with horns. You can also filter the gallery based on horn size.",
       "images": [
-        ""
+        "images/portfolio/photography/Pic1.jpg",
+        "images/portfolio/photography/pic2.jpg",
+        "images/portfolio/photography/pic3.jpg"
+
       ],
       "url": "https://github.com/Curryfrom3/gallery-of-horns.git",
       "technologies": [
